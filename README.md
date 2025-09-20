@@ -1,17 +1,44 @@
 # mero_samaya
 
-A new Flutter project.
+**mero_samaya** is a Flutter-based timer app designed to help users manage focus periods (Pomodoro-style or custom).  
+It allows you to set a time interval for focused work, track how long you’ve been working, and manage sessions with a simple interface.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Set a focus timer or work session with a fixed/custom duration.  
+- Start, pause, and reset the timer easily.  
+- Display remaining and elapsed time in real-time.  
+- Minimal and distraction-free UI.  
+- Cross-platform support (Android & iOS).  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# mero_samaya
+---
+
+## 🖼 Screenshots / UI
+
+
+
+---
+
+## 📂 Project Structure
+mero_samaya/
+├── lib/
+│   ├── main.dart                # App entry point
+│   ├── screens/                 # App screens
+│   ├── widgets/                 # Reusable UI components
+│   ├── models/                  # Data models, timer state
+│   └── services/                # Timer logic, notifications
+├── assets/                      # Fonts, images, icons
+├── pubspec.yaml                 # Dependencies and metadata
+├── README.md                    # Project documentation
+└── test/                        # Unit/widget tests
+
+---
+
+
+
+
+
+
