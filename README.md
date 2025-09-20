@@ -1,6 +1,6 @@
-# mero_samaya
+# Mero Samaya
 
-**mero_samaya** is a Flutter-based timer app designed to help users manage focus periods (Pomodoro-style or custom).  
+**Mero Samaya** is a Flutter-based timer app designed to help users manage focus periods (Pomodoro-style or custom).  
 It allows you to set a time interval for focused work, track how long you’ve been working, and manage sessions with a simple interface.
 
 
